@@ -12,4 +12,3 @@ while cont < cuantosRadios:
     lista.append([radio, perimetro])
     cont += 1
 print(lista)
-metodos.velocidad_angular()
